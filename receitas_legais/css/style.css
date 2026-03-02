@@ -11272,8 +11272,8 @@ body{
   font-weight: bold;
 }
 
-.obras-titulo{
-  color: white;
+.titulo{
+  color: #FFEC41;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -11282,7 +11282,7 @@ body{
   margin: -2px;
 }
 
-.img-ptsd{
+.img-receita{
   width: 30%;
 }
 /* Define o tamanho e o formato das imagens */
